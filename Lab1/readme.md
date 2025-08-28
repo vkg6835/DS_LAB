@@ -50,8 +50,11 @@ Once the libraries are installed, you can open and run the q1_my.ipynb file in a
 
 Expected Output
 The notebook will print out the results of the analysis for each part and display three plots:
+
 A heatmap showing the correlation between age and fare.
+
 A scatter plot of age versus fare.
+
 A stacked bar chart showing survival counts by passenger class.
 
 A stacked bar chart showing survival counts by passenger class.

@@ -1,7 +1,9 @@
 NYC Yellow Taxi Trip Data Analysis
+
 This project provides a descriptive analysis of a sample dataset of NYC Yellow Taxi trips. The analysis is performed using both Python (in a Jupyter Notebook) and R to demonstrate data handling, statistical analysis, and visualization in both languages.
 
 Files Included
+
 DS_Lab2.ipynb: A Jupyter Notebook containing the Python code for the analysis.
 
 Lab2.R: An R script containing the R code for the analysis.
@@ -9,9 +11,11 @@ Lab2.R: An R script containing the R code for the analysis.
 yellow_tripdata_sample.csv: A sample CSV file with 995 records of NYC Yellow Taxi trip data.
 
 Python Analysis (DS_Lab2.ipynb)
+
 This notebook walks through loading the data, calculating descriptive statistics, and generating various plots to visualize the data distribution and relationships between variables.
 
 Key Analyses in Python:
+
 Descriptive Statistics: Calculation of mean, median, mode, standard deviation, variance, skewness, and kurtosis for key numerical fields.
 
 Visualizations:
@@ -37,6 +41,7 @@ Time Series Analysis: A plot showing the daily trip counts.
 Hourly Variation: A box plot showing the distribution of fare amounts by the hour of the day.
 
 How to Run the Python Notebook:
+
 Prerequisites: Make sure you have Python and Jupyter Notebook installed. You will also need the following libraries:
 
 pandas
@@ -64,9 +69,12 @@ Open your terminal or command prompt, navigate to that directory, and run jupyte
 Open DS_Lab2.ipynb and run the cells sequentially.
 
 R Analysis (Lab2.R)
+
+
 This R script performs a similar descriptive analysis of the taxi trip data, showcasing R's capabilities for statistical analysis and plotting with ggplot2.
 
-Key Analyses in R:
+Key Analyses in R
+
 Descriptive Statistics: Calculation of mean, median, mode, standard deviation, variance, skewness, and kurtosis.
 
 Visualizations:
@@ -92,6 +100,7 @@ Time Series Analysis: A plot of daily trip counts.
 Hourly Variation: A box plot of fare amounts by the hour.
 
 How to Run the R Script:
+
 Prerequisites: You need to have R and preferably RStudio installed. You will also need the following R packages:
 
 dplyr

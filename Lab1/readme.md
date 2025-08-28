@@ -1,4 +1,5 @@
 Titanic Dataset Analysis
+
 This Jupyter Notebook performs a basic statistical analysis of the Titanic dataset. It explores passenger class distribution, survival probabilities based on gender, and the correlation between age and fare.
 
 Contents
